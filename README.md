@@ -42,7 +42,7 @@ A fully responsive, accessible ticket management app built with React + TypeScri
    # or
    yarn dev
    ```
-3. Open [http://localhost:5173](http://localhost:5173) in your browser.
+3. Open [https://ticket-management-app-react-hng.vercel.app/](https://ticket-management-app-react-hng.vercel.app/) in your browser.
 
 ## Mock Credentials
 
