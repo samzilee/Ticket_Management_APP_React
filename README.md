@@ -19,7 +19,6 @@ A fully responsive, accessible ticket management app built with React + TypeScri
   /components      # Navbar, Footer, TicketCard, Form, Toast
   /pages           # Landing, AuthLogin, AuthSignup, Dashboard, Tickets
   /styles          # CSS files for layout and components
-  /assets          # (optional) SVGs, images
   App.tsx          # Main app layout
   routes.tsx       # App routes
 ```
@@ -42,7 +41,7 @@ A fully responsive, accessible ticket management app built with React + TypeScri
    # or
    yarn dev
    ```
-3. Open [https://ticket-management-app-react-hng.vercel.app/](https://ticket-management-app-react-hng.vercel.app/) in your browser.
+3. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Mock Credentials
 
